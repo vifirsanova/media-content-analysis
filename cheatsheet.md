@@ -1,0 +1,44 @@
+# Анализ медиаконтента
+Как принимать решения?
+- DATA-DRIVEN DECISION: Информированное принятие решений и анализ конкурентов на основе больших данных и **статистики** -- это агрегаторы статистической информации из социальных сетей
+  - Агрегаторы статистической информации с ТГ-каналов
+    - https://tgstat.ru/
+    - https://telemetr.me/
+  - Агрегаторы стат. информации с любых социальных сетей
+    - https://socialblade.com/
+  - Исследования
+    - https://mediascope.net/
+  - Сравнение любых сайтов
+    - https://www.similarweb.com/ru/
+  - API социальной сети
+    - https://dev.vk.com/ru/reference
+    - https://tlgrm.ru/docs/bots/api 
+  - Natural Language Processing
+    - Named Entity Recognition - извлекать имена, навания объектов, даты, время, локации, реже - названия из биологии, химии и др. областей науки (https://www.datacamp.com/blog/what-is-named-entity-recognition-ner)
+    - Topic Modeling - выделять ключевые слова, которые характеризуют тематики (https://www.datacamp.com/tutorial/what-is-topic-modeling)
+    - Sentiment Analysis - анализ скрытых признаков текста, на основе которого определяется настроение текста (https://text2data.com/Demo)
+- АНАЛИЗ ЦЕЛЕВОЙ АУДИТОРИИ: Цель - узнать типичное поведение ЦА, предпочтения, предсказать реакцию ЦА
+  -  На основе статистики: определение поведение ЦА по статистике, предсказание реакции
+  -  Инуитивное принятие решений на основе метрик социальных сетей
+    -  на основе дашбордов из панели администрирования в социальной сети
+    -  https://metrika.yandex.ru/promo/product
+  -  Проверка гипотез
+  -  Сбор обратной связи
+    - Телеграм-бот
+    - https://www.surveymonkey.com/
+    - https://mailchimp.com/ - массовая рассылка
+    - https://www.typeform.com/ - формы обратной связи
+    - Google-формы и аналоги
+  - Инструменты для оптимизации в поисковых системах SEO
+    - https://buffer.com/resources/best-free-seo-tools/
+    - Генерация ключевых слов: https://www.cortical.io/freetools/extract-keywords/
+- Оптимизация контента
+  - Оптимизация под интересы ЦА, цель - повысить охваты (см. data-driven decisions, анализ ЦА)
+  - Оптимизация сайта под мобильные устройства (см. SEO)
+  - A/b тестирование и проверки гипотез
+ - Анализ трендов
+  - Google News, Яндекс Новости, https://trends.google.com/trends/
+  - Создание дашбордов для анализа статистики социальных сетей и планирования контента
+    - https://www.hootsuite.com/ - комплексный инструмент для создания дашбордов для социальных сетей
+    - https://www.brandwatch.com/
+    - https://sproutsocial.com/
