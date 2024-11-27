@@ -4,12 +4,15 @@
   - Агрегаторы статистической информации с ТГ-каналов
     - https://tgstat.ru/
     - https://telemetr.me/
+  - Расширение для аналитики YouTube
+    - https://vidiq.com/ 
   - Агрегаторы стат. информации с любых социальных сетей
     - https://socialblade.com/
   - Исследования
     - https://mediascope.net/
   - Сравнение любых сайтов
     - https://www.similarweb.com/ru/
+    - https://popsters.ru
   - API социальной сети
     - https://dev.vk.com/ru/reference
     - https://tlgrm.ru/docs/bots/api 
