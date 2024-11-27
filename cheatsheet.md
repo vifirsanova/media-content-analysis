@@ -15,7 +15,7 @@
     - https://popsters.ru
   - API социальной сети
     - https://dev.vk.com/ru/reference
-    - https://tlgrm.ru/docs/bots/api 
+    - https://tlgrm.ru/docs/bots/api
   - Natural Language Processing
     - Named Entity Recognition - извлекать имена, навания объектов, даты, время, локации, реже - названия из биологии, химии и др. областей науки (https://www.datacamp.com/blog/what-is-named-entity-recognition-ner)
     - Topic Modeling - выделять ключевые слова, которые характеризуют тематики (https://www.datacamp.com/tutorial/what-is-topic-modeling)
@@ -27,7 +27,12 @@
     -  https://metrika.yandex.ru/promo/product
   -  Проверка гипотез
   -  Сбор обратной связи
-    - Телеграм-бот
+    - Телеграм-бот: конструкторы телеграм-ботов без кода
+      - https://manybot.io
+      - https://bottap.ru
+      - https://botmother.ru
+      - https://puzzlebot.top
+      - https://aimylogic.com 
     - https://www.surveymonkey.com/
     - https://mailchimp.com/ - массовая рассылка
     - https://www.typeform.com/ - формы обратной связи
