@@ -37,6 +37,10 @@
     - https://mailchimp.com/ - массовая рассылка
     - https://www.typeform.com/ - формы обратной связи
     - Google-формы и аналоги
+      - Sogolytics
+      - Qualtrics
+      - Yandex Формы
+      - Testograf
   - Инструменты для оптимизации в поисковых системах SEO
     - https://buffer.com/resources/best-free-seo-tools/
     - Генерация ключевых слов: https://www.cortical.io/freetools/extract-keywords/
